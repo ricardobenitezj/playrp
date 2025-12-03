@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://playgta5rp.com/sitemap.xml
